@@ -5,12 +5,6 @@
 			"att-label": "eBilling",
 			"att-action": "1",
 			"att-description": "Energy bills are delivered by email to jonathan@visualsauce.com.au."
-		},
-		{
-			"att-label": "Yep mofo",
-			"att-action": "Edit",
-			"att-description": "Get on it"
-		},
-		{}
+		}
 	]
 }
