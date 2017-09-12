@@ -4,12 +4,12 @@
 		{
 			"att-label": "eBilling",
 			"att-action": "Edit",
-			"att-description": "<p>Get your energy <a href=\"#\">bills</a></p>"
+			"att-description": "Energy bills are delivered by email to jonathan@visualsauce.com.au."
 		},
 		{
 			"att-label": "Yep mofo",
 			"att-action": "Edit",
-			"att-description": "<p>Get on it</p>"
+			"att-description": "Get on it"
 		},
 		{}
 	]
