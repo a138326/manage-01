@@ -1,3 +1,10 @@
 {
-	"section-hd": "Billing and Payments"
+	"section-hd": "Billing and Payments",
+	"account-attribute": [
+		{
+			"att-label": "eBilling",
+			"att-action": "Add",
+			"att-description": "Energ bills"
+		}
+	]
 }
