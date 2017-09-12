@@ -4,7 +4,7 @@
 		{
 			"att-label": "eBilling",
 			"att-action": "Edit",
-			"att-description": "Get your energy bills delivered"
+			"att-description": "<p>Get your energy <a href=\"#\">bills</a></p>"
 		}
 	]
 }
