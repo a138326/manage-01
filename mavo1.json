@@ -3,7 +3,7 @@
 	"account-attribute": [
 		{
 			"att-label": "eBilling",
-			"att-action": "Edit",
+			"att-action": "1",
 			"att-description": "Energy bills are delivered by email to jonathan@visualsauce.com.au."
 		},
 		{
