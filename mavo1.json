@@ -1,4 +1,10 @@
 {
 	"section-hd": "Billing and Payments",
-	"account-attribute": []
+	"account-attribute": [
+		{
+			"att-label": "eBilling",
+			"att-action": "Edit",
+			"att-description": "Get your energy bills delivered"
+		}
+	]
 }
