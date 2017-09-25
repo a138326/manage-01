@@ -5,7 +5,12 @@
 			"att-label": "eBilling",
 			"att-action": "Edit",
 			"att-description": "Energy bills are delivered by email to jonathan@visualsauce.com.au.",
-			"test": "volvo"
+			"test": "volvo",
+			"rating": 3
+		},
+		{
+			"att-label": "Bill Smoothing",
+			"rating": 3
 		}
 	]
 }
