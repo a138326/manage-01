@@ -1,16 +1,19 @@
 {
-	"section-hd": "Billing and Payments",
+	"section-hd": "Personal details",
 	"account-attribute": [
 		{
 			"att-label": "eBilling",
-			"att-action": "Edit",
+			"att-action": {
+				"action-url": "Edit"
+			},
 			"att-description": "Energy bills are delivered by email to jonathan@visualsauce.com.au.",
 			"test": "volvo",
 			"rating": 3
 		},
 		{
 			"att-label": "Bill Smoothing",
-			"rating": 3
+			"rating": 3,
+			"att-action": {}
 		}
 	]
 }
